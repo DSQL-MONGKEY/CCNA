@@ -1,2 +1,2 @@
 # CCNA
-CCNA(Cisco Certificate Network Associate)
+CCNA(Cisco Certified Network Associate)
